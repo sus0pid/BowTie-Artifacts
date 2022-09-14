@@ -1,6 +1,8 @@
 # BowTie Artifacts
-This repo shows the artifacts of the paper [Stopping Silent Sneaks: Defending against Malicious Mixes with Topological Engineering](https://arxiv.org/abs/2206.00592). We developed two tools: ***mixnets topology generator (MTG)*** to produce the reference and 
-mixnet topologies and ***routesim*** to evaluate the topologies on their expected security metrics of 
+This repo shows the artifacts of the paper [Stopping Silent Sneaks: Defending against Malicious Mixes with Topological Engineering](https://arxiv.org/abs/2206.00592). We developed two tools: 
+-***mixnets topology generator (MTG)*** to produce the reference and 
+mixnet topologies;
+-***routesim*** to evaluate the topologies on their expected security metrics of 
 typical dynamic email-like usage.
 
 ## Tools
