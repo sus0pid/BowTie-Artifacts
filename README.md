@@ -7,7 +7,7 @@ typical dynamic email-like usage.
 ### [routesim](https://github.com/frochet/routesim)
 To enable our evaluation of time to first compromise metric based on realistic Mixnets usage, we 
 implement 
-***routesim*** to support the dynamic, multi-message 
+***routesim*** in rust to support the dynamic, multi-message 
 user scenario, aiming at estimating user's resilience against client enumeration. It takes the output of the ***MTG*** as the input data, and evaluates the security level of clients over time.
 
 ### [MTG](https://github.com/sus0pid/MTG-Simulator)
