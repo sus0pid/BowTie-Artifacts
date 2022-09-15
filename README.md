@@ -7,11 +7,11 @@ mixnet topologies.
 
 
 ## Tools
-### [routesim](https://github.com/frochet/routesim)
+### 1. [routesim](https://github.com/frochet/routesim)
 To enable our evaluation of time to first compromise metric based on realistic Mixnets usage, we 
 implement 
 ***routesim*** in rust to support the dynamic, multi-message 
 user scenario, aiming at estimating user's resilience against client enumeration. It takes the output of the ***MTG*** as the input data, and evaluates the security level of clients over time. Please click the link above to read the detailed instructions of ***routesim***.
 
-### [MTG](https://github.com/sus0pid/MTG-Simulator)
+### 2. [MTG](https://github.com/sus0pid/MTG-Simulator)
 We implemented a scalable Mixnet topology generator incorporating the four mixnet construction algorithms in Python. It generates the mixnet topological configuration and the amount of fully compromised traffic that the adversary can see. Please click the link above to see detailed information about ***MTG***.
